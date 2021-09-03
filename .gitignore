@@ -1,0 +1,13 @@
+# Import cache
+.import/
+
+# Binaries
+bin/
+build/
+lib/
+
+*.translation
+export_presets.cfg
+Assets/Sprites/Pixel_Spaceships_pack
+Assets/Sprites/bullet*
+Assets/Sprites/bomb.png
